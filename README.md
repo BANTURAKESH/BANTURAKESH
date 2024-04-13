@@ -1,5 +1,6 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/05/06/70/67/240_F_506706712_Z4vzx7zBUgtVr1hC5FkYBwFP3Y6sDbmC.jpg)
 <h1 align="center">Hi 👋, I'm Rakesh Bantu</h1>
+<h1 align="center">Research Associate at Aragen Life Sciences Limited</h1>
 <h3 align="center">Bioinformatics Enthusiast | Integrating Data Science,machine learning and Bioinformatics Research for Innovative Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://structuralbioinformatician.files.wordpress.com/2013/03/1ece.gif">
 
@@ -12,6 +13,16 @@
 - 👨‍💻 All of my projects are available at [https://github.com/BANTURAKESH](https://github.com/BANTURAKESH)
 
 - 💬 Ask me about **Bioinformatics,Molecular modeling,Structural Biology,Machine learning,Deep learning,Sentence Transformers**
+
+- **AREAS OF RESEARCH INTEREST**
+      Artificial Intelligence in Healthcare. 
+      Development of AI/ML models to solve Biological Problems. 
+      Drug Discovery 
+      Multi-Omics. 
+      Data Analysis. 
+      Computational Biology. 
+      Disease Biomarker Identifications. 
+      Pathway Analysis and Network Biology 
 
 - 📫 How to reach me **rakeshbantu04@gmail.com**
 
