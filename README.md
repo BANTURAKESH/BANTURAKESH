@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Bioinformatics, Molecular Modeling, Structural Biology, Machine learning, Deep learning, Insilico Methods**
 
-- 👨‍💻 **Research Intrests**
+- 💡 **Research Intrests👇**
   
      - **Artificial Intelligence in Healthcare**. 
      - **Development of AI/ML models to solve Biological Problems**. 
