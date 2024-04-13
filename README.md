@@ -14,15 +14,16 @@
 
 - 💬 Ask me about **Bioinformatics,Molecular modeling,Structural Biology,Machine learning,Deep learning,Sentence Transformers**
 
-- **AREAS OF RESEARCH INTEREST**
-      Artificial Intelligence in Healthcare. 
-      Development of AI/ML models to solve Biological Problems. 
-      Drug Discovery 
-      Multi-Omics. 
-      Data Analysis. 
-      Computational Biology. 
-      Disease Biomarker Identifications. 
-      Pathway Analysis and Network Biology 
+-    **RESEARCH INTEREST**
+  
+     - Artificial Intelligence in Healthcare. 
+     - Development of AI/ML models to solve Biological Problems. 
+     - Drug Discovery 
+     - Multi-Omics. 
+     - Data Analysis. 
+     - Computational Biology. 
+     - Disease Biomarker Identifications. 
+     - Pathway Analysis and Network Biology 
 
 - 📫 How to reach me **rakeshbantu04@gmail.com**
 
