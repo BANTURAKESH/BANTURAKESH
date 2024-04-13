@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BANTURAKESH](https://github.com/BANTURAKESH)
 
-- 💬 Ask me about **Bioinformatics, Molecular Modeling, Structural Biology, Machine learning, Deep learning, Insilico Methods, CADD**
+- 💬 Ask me about **Bioinformatics, Molecular Modeling, Structural Biology, Machine learning, Deep learning, Insilico Methods**
 
 - 👨‍💻 **Research Intrests**
   
