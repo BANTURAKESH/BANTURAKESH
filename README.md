@@ -25,41 +25,42 @@
      - **Disease Biomarker Identifications**. 
      - **Pathway Analysis and Network Biology**
 
- # 👨‍💻 My Skills
+# 👨‍💻 My Skills
 
 ## 🛠️ Languages / IDEs
-![Python](https://www.python.org/)
-![PyCharm](https://www.jetbrains.com/pycharm/)
-![Bash](https://www.gnu.org/software/bash/)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GnuBash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ---
 
 ## 💡 Domain Knowledge
-![Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
-![Computational Biology](https://en.wikipedia.org/wiki/Computational_biology)
-![AI/ML in Drug Discovery](https://en.wikipedia.org/wiki/Artificial_intelligence_in_drug_discovery)
-![Cheminformatics](https://en.wikipedia.org/wiki/Cheminformatics)
+[![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-4CA1AF?style=flat)](https://en.wikipedia.org/wiki/Bioinformatics)
+[![Computational Biology](https://img.shields.io/badge/-Computational%20Biology-FFB400?style=flat)](https://en.wikipedia.org/wiki/Computational_biology)
+[![AI/ML in Drug Discovery](https://img.shields.io/badge/-AI%2FML%20in%20Drug%20Discovery-2496ED?style=flat)](https://en.wikipedia.org/wiki/Artificial_intelligence_in_drug_discovery)
+[![Cheminformatics](https://img.shields.io/badge/-Cheminformatics-8A2BE2?style=flat)](https://en.wikipedia.org/wiki/Cheminformatics)
 
 ---
 
 ## 🔄 CI / CD Tools
-![GitHub](https://github.com/)
-![Docker](https://www.docker.com/)
-![VS Code](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
 ## 🗄️ Databases
-![MySQL](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 ---
 
 ## 🧠 Machine Learning / Deep Learning Frameworks
-![Jupyter Notebook](https://jupyter.org/)
-![Scikit-learn](https://scikit-learn.org/)
-![PyTorch](https://pytorch.org/)
-![TensorFlow](https://www.tensorflow.org/)
-![OpenCV](https://opencv.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)](https://opencv.org/)
+
 
 - 📫 How to reach me **rakeshbantu04@gmail.com**
 
