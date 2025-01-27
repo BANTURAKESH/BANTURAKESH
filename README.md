@@ -24,7 +24,43 @@
      - **Computational Biology**. 
      - **Disease Biomarker Identifications**. 
      - **Pathway Analysis and Network Biology**
- 
+
+ # 👨‍💻 My Skills
+
+## 🛠️ Languages / IDEs
+![Python](https://www.python.org/)
+![PyCharm](https://www.jetbrains.com/pycharm/)
+![Bash](https://www.gnu.org/software/bash/)
+
+---
+
+## 💡 Domain Knowledge
+![Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
+![Computational Biology](https://en.wikipedia.org/wiki/Computational_biology)
+![AI/ML in Drug Discovery](https://en.wikipedia.org/wiki/Artificial_intelligence_in_drug_discovery)
+![Cheminformatics](https://en.wikipedia.org/wiki/Cheminformatics)
+
+---
+
+## 🔄 CI / CD Tools
+![GitHub](https://github.com/)
+![Docker](https://www.docker.com/)
+![VS Code](https://code.visualstudio.com/)
+
+---
+
+## 🗄️ Databases
+![MySQL](https://www.mysql.com/)
+
+---
+
+## 🧠 Machine Learning / Deep Learning Frameworks
+![Jupyter Notebook](https://jupyter.org/)
+![Scikit-learn](https://scikit-learn.org/)
+![PyTorch](https://pytorch.org/)
+![TensorFlow](https://www.tensorflow.org/)
+![OpenCV](https://opencv.org/)
+
 - 📫 How to reach me **rakeshbantu04@gmail.com**
 
 - ⚡ Fun fact **Iam Funny**
