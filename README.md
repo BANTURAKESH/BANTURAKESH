@@ -20,7 +20,6 @@
      - **Development of AI/ML models to solve Biological Problems**. 
      - **Drug Discovery**. 
      - **Multi-Omics**. 
-     - **Data Analysis**. 
      - **Computational Biology**. 
      - **Disease Biomarker Identifications**. 
      - **Pathway Analysis and Network Biology**
