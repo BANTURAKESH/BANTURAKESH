@@ -24,6 +24,41 @@
      - **Computational Biology**. 
      - **Disease Biomarker Identifications**. 
      - **Pathway Analysis and Network Biology**
+# 👨‍💻 My Skills
+
+## 🛠️ Languages / IDEs
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)
+
+---
+
+## 💡 Domain Knowledge
+[![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-4CA1AF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
+[![Computational Biology](https://img.shields.io/badge/-Computational%20Biology-FFB400?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
+[![AI/ML in Drug Discovery](https://img.shields.io/badge/-AI%2FML%20in%20Drug%20Discovery-2496ED?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
+[![Cheminformatics](https://img.shields.io/badge/-Cheminformatics-8A2BE2?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
+
+---
+
+## 🔄 CI / CD Tools
+![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)
+---
+
+## 🧠 Machine Learning / Deep Learning Frameworks
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat&logo=jupyter&logoColor=F37626)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-eee?style=flat&logo=scikit-learn&logoColor=e26d00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-eee?style=flat&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-eee?style=flat&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)
+
 
 - 📫 How to reach me **rakeshbantu04@gmail.com**
 
