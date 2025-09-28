@@ -8,18 +8,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banturakesh" alt="banturakesh" /></a> </p>
 
-- 🌱 I’m currently learning **R programming, Computer- vision, PyTorch**
+- 🌱 I’m currently learning **LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BANTURAKESH](https://github.com/BANTURAKESH)
 
-- 💬 Ask me about **Bioinformatics, Molecular Modeling, Structural Biology, Machine learning, Deep learning, Insilico Methods**
+- 💬 Ask me about **Bioinformatics, Machine learning, Deep learning, Insilico Methods**
 
 - 💡 **Research Intrests 👇**
   
      - **Artificial Intelligence in Healthcare**. 
      - **Development of AI/ML models to solve Biological Problems**. 
      - **Drug Discovery**. 
-     - **Multi-Omics**. 
+     - **Single-cell RNA sequencing (scRNA-seq)**. 
      - **Computational Biology**. 
      - **Disease Biomarker Identifications**. 
      - **Pathway Analysis and Network Biology**
