@@ -1,7 +1,7 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/05/06/70/67/240_F_506706712_Z4vzx7zBUgtVr1hC5FkYBwFP3Y6sDbmC.jpg)
 <h1 align="center">Hi 👋, I'm RAKESH BANTU</h1>
 <h1 align="center">PhD Scholar at Syracuse University</h1>
-<h3 align="center">Bioinformatics| Biomedical Engineering| Machine learning </h3>
+<h3 align="center">Bioinformatics | Biomedical Engineering | Machine learning </h3>
 <img align="right" alt="Coding" width="400" src="https://structuralbioinformatician.files.wordpress.com/2013/03/1ece.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banturakesh&label=Profile%20views&color=0e75b6&style=flat" alt="banturakesh" /> </p>
